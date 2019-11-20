@@ -9,8 +9,8 @@ def subtraction(num1, num2)
 end
 
 def division(num1, num2)
-  multiplication = num1 * num2
-  multiplication
+  division = num1 * num2
+  division
 end
 
 def multiplication(num1, num2)
